@@ -2,7 +2,7 @@
 
 I'm a final-year Electrical & Computer Engineering student at DUTH (Integrated Master's).
 
-🔧 I've worked across a wide range of areas, including embedded systems, signal processing, high-performance computing, and machine learning.
+🔧 I've worked across a wide range of areas, including deep learning, signal processing, high-performance computing, and embedded systems.
 
 ---
 
