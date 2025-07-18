@@ -2,14 +2,14 @@
 
 I'm a final-year Electrical & Computer Engineering student at DUTH (Integrated Master's).
 
-🔧 I've worked across a wide range of areas, including embedded systems, signal processing, high-performance computing (CUDA/OpenMP), and machine learning.
+🔧 I've worked across a wide range of areas, including embedded systems, signal processing, high-performance computing, and machine learning.
 
 ---
 
 ### 🧠 Interests
 - Deep Learning (esp. biomedical signals)
 - Embedded Systems (ARM, Microcontrollers, FPGAs)
-- High-Performance Computing
+- High-Performance Computing (CUDA/OpenMP)
 - Digital Signal Processing
 - Operating Systems
 
