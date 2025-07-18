@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hi there!
 
-<!--
-**GeorgePyralis/GeorgePyralis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Electrical & Computer Engineering student at DUTH (Integrated Master's).
 
-Here are some ideas to get you started:
+🔧 I've worked across a wide range of areas, including embedded systems, signal processing, high-performance computing (CUDA/OpenMP), and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Interests
+- Deep Learning (esp. biomedical signals)
+- Embedded Systems (ARM, Microcontrollers, FPGAs)
+- High-Performance Computing
+- Digital Signal Processing
+- Operating Systems
+
+---
+
+### 🧰 Technologies I Work With
+- **Languages**: Python, C, C++, Java, MATLAB, SystemVerilog  
+- **Tools**: VS Code, LTspice, AutoCAD, ModelSim, Fusion 360
+- **Frameworks**: PyTorch, CUDA, OpenMP, ARM, Arduino
+- **Topics**: DSP, ML, Embedded Architectures  
+
+---
+
+### 📚 Selected Projects
+- 🔹 Smart Tank Monitor (Arduino, RTC, Temperature & Ultrasonic sensors)
+- 🔹 Parallel Computing Algorithms (CUDA & OpenMP)
+- 🔹 Audio Signal Processing Toolkit (MATLAB)
+- 🔹 Breast Cancer Classifier (Python, scikit-learn)
+- 🔹 Digital Systems in SystemVerilog
+
+---
+
+### 🌱 Currently
+- Developing my thesis on deep learning for biomedical signal classification using 1D CNNs.
+
+---
+
+### 📫 Let's Connect
+- **Email:** george.pyralis@gmail.com  
+- **LinkedIn:** linkedin.com/in/george-pyralis-7342aa307
