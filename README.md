@@ -39,4 +39,4 @@ I'm a final-year Electrical & Computer Engineering student at DUTH (Integrated M
 
 ### 📫 Let's Connect
 - **Email:** george.pyralis@gmail.com  
-- **LinkedIn:** linkedin.com/in/george-pyralis-7342aa307
+- **LinkedIn:** linkedin.com/in/georgepyralis
