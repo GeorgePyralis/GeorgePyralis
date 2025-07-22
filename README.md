@@ -24,10 +24,10 @@ I'm a final-year Electrical & Computer Engineering student at DUTH (Integrated M
 ---
 
 ### 📚 Selected Projects
-- 🔹 Smart Tank Monitor (Arduino, RTC, Temperature & Ultrasonic sensors)
-- 🔹 Parallel Computing Algorithms (CUDA & OpenMP)
-- 🔹 Audio Signal Processing Toolkit (MATLAB)
 - 🔹 Breast Cancer Classifier (Python, scikit-learn)
+- 🔹 Parallel Computing Algorithms (CUDA & OpenMP)
+- 🔹 Smart Tank Monitor (Arduino, RTC, Temperature & Ultrasonic sensors)
+- 🔹 Audio Signal Processing Toolkit (MATLAB)
 - 🔹 Digital Systems in SystemVerilog
 
 ---
