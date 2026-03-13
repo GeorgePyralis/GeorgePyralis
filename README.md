@@ -8,32 +8,28 @@ I'm a final-year Electrical & Computer Engineering student at DUTH (Integrated M
 
 ### 🧠 Interests
 - Deep Learning (esp. biomedical signals)
-- Embedded Systems (ARM, Microcontrollers, FPGAs)
 - High-Performance Computing (CUDA/OpenMP)
 - Digital Signal Processing
-- Operating Systems
 
 ---
 
 ### 🧰 Technologies I Work With
 - **Languages**: Python, C, C++, Java, MATLAB, SystemVerilog  
-- **Tools**: VS Code, LTspice, AutoCAD, ModelSim, Fusion 360
+- **Tools**: VS Code, LTspice, AutoCAD
 - **Frameworks**: PyTorch, CUDA, OpenMP, ARM, Arduino
-- **Topics**: DSP, ML, Embedded Architectures  
+- **Topics**: ML, DSP, Embedded Architectures  
 
 ---
 
 ### 📚 Selected Projects
-- 🔹 Breast Cancer Classifier (Python, scikit-learn)
+- 🔹 HyperSpectral Classification (PyTorch)
 - 🔹 Parallel Computing Algorithms (CUDA & OpenMP)
-- 🔹 Smart Tank Monitor (Arduino, RTC, Temperature & Ultrasonic sensors)
-- 🔹 Audio Signal Processing Toolkit (MATLAB)
-- 🔹 Digital Systems in SystemVerilog
+- 🔹 Audio Signal Processing Toolkit (Python / MATLAB)
 
 ---
 
 ### 🌱 Currently
-- Developing my thesis on deep learning for biomedical signal classification using 1D CNNs.
+- Developing my thesis on biomedical signal classification using monotonic 1D CNNs.
 
 ---
 
